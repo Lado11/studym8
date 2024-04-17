@@ -1,0 +1,10 @@
+export './auth/index.dart';
+export './courses/index.dart';
+export './first_page/first_page.dart';
+export './login/login_screnn.dart';
+export './media_page/media_page.dart';
+export './my_courses/index.dart';
+export './onbording/index.dart';
+export './registration/registration_screen.dart';
+export './set_up_profile_screen/set_up_profile_screen.dart';
+export './study_page/study_page.dart';

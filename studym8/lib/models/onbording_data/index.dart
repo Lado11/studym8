@@ -1,0 +1,1 @@
+export './onbording_data.dart';
